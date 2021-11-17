@@ -1,9 +1,5 @@
-<h1 align="center">Hello! I'm Gabriela :)</h1>
-<h3 align="center">25 yo front-end web developer student and UX/UI designer from Brazil. I love CSS, HTML, JavaScript and currently learning more about back-end.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielaavescosta&label=Profile%20views&color=ff80c0&style=flat" alt="gabrielaavescosta" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielaavescosta" alt="gabrielaavescosta" /></a> </p>
+<h1>Hello! I'm Gabriela :)</h1>
+<h2>25 yo front-end web developer student and UX/UI designer from Brazil. I love CSS, HTML, JavaScript and currently learning more about back-end.</h2>
 
 - 🌱 I’m currently learning **React, Vue, Node.js and MySQL**
 
@@ -11,10 +7,10 @@
 
 - 📫 How to reach me **gabrielasilvaalvescosta@gmail.com**
 
-- ⚡ Fun fact **I love cats so much**
+- ⚡ Fun fact **I love cats**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>Connect with me:</h2>
+<p>
 <a href="https://linkedin.com/in/gabrielaalvescosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaalvescosta" height="30" width="40" /></a>
 <a href="https://discord.gg/gabrielaalvescosta#3579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gabrielaalvescosta#3579" height="30" width="40" /></a>
 </p>
