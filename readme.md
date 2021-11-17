@@ -1,8 +1,8 @@
 <h1>Hello! I'm Gabriela :)</h1>
-<h2>25 yo front-end web developer student and UX/UI designer from Brazil. I love web, UI/UX, CSS, HTML, JavaScript and currently learning more about back-end.</h2>
+<p>25 yo front-end web developer student and UX/UI designer from Brazil. I love web, UI/UX, CSS, HTML, JavaScript and currently learning more about back-end.</p>
 
 
-🌱 I’m currently learning **React, Vue, Node.js and MySQL**
+🌱 I’m currently learning **React, Vue.js, Node.js and MySQL**
 
 💬 Ask me about **CSS and UI/UX**
 
