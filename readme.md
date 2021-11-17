@@ -1,15 +1,12 @@
 <h1>Hello! I'm Gabriela :)</h1>
-<h2>25 yo front-end web developer student and UX/UI designer from Brazil. I love CSS, HTML, JavaScript and currently learning more about back-end.</h2>
+<h2>25 yo front-end web developer student and UX/UI designer from Brazil. I love web, UI/UX, CSS, HTML, JavaScript and currently learning more about back-end.</h2>
 
-- 🌱 I’m currently learning **React, Vue, Node.js and MySQL**
+🌱 I’m currently learning **React, Vue, Node.js and MySQL**
+💬 Ask me about **CSS and UI/UX**
+📫 How to reach me **gabrielasilvaalvescosta@gmail.com**
+⚡ Fun fact **I love cats**
 
-- 💬 Ask me about **CSS and UI/UX**
-
-- 📫 How to reach me **gabrielasilvaalvescosta@gmail.com**
-
-- ⚡ Fun fact **I love cats**
-
-<h2>Connect with me:</h2>
+<h2>Social Media</h2>
 <p>
 <a href="https://linkedin.com/in/gabrielaalvescosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaalvescosta" height="30" width="40" /></a>
 <a href="https://discord.gg/gabrielaalvescosta#3579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gabrielaalvescosta#3579" height="30" width="40" /></a>
