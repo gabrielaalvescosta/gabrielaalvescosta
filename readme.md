@@ -8,7 +8,7 @@
 
 📫 How to reach me **gabrielasilvaalvescosta@gmail.com**
 
-⚡ Fun fact **I love cats**
+⚡ Fun fact **I love put a lot of colors in my projects, but i'm always dressed for a funeral**
 
 
 
