@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Gabriela :)</h1>
 <h3 align="center">25 yo front-end web developer student and UX/UI designer from Brazil. I love CSS, HTML, JavaScript and currently learning more about back-end.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielaavescosta&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielaavescosta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielaavescosta&label=Profile%20views&color=ff80c0&style=flat" alt="gabrielaavescosta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielaavescosta" alt="gabrielaavescosta" /></a> </p>
 
@@ -24,6 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaavescosta&show_icons=true&locale=en&layout=compact" alt="gabrielaavescosta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielaavescosta&show_icons=true&locale=en" alt="gabrielaavescosta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielaavescosta&show_icons=true&theme=dracula&locale=en" alt="gabrielaavescosta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaavescosta&" alt="gabrielaavescosta" /></p>
+
