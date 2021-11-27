@@ -23,10 +23,11 @@
 
 
 <h2> Languages</h2>
+<center>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaalvescosta&show_icons=true&locale=en&layout=compact" alt="gabrielaalvescosta" /></p>
+</center> 
 
 <h2> Status </h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=gabrielaalvescosta&show_icons=true&theme=dracula&locale=en" alt="gabrielaalvescosta" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaalvescosta&" alt="gabrielaalvescosta" /></p>
 
