@@ -1,5 +1,5 @@
 <h1>Hello! I'm Gabriela :)</h1>
-<p>25 yo front-end web developer student and UX/UI designer from Brazil. I love web stuff, CSS, HTML, JavaScript and currently learning more about back-end.</p>
+<p>25 yo front-end web developer student and web designer from Brazil. I love web stuff, CSS, HTML, JavaScript and currently learning more about back-end.</p>
 
 
 
