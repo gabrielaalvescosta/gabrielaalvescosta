@@ -1,13 +1,13 @@
 <h1>Hello! I'm Gabriela :)</h1>
-<p>25 yo front-end web developer student and web designer from Brazil. I love web stuff, CSS, HTML, JavaScript and currently learning more about back-end.</p>
+<p>25 yo front-end web developer student and web designer from Brazil. I love web stuff, CSS, HTML, JavaScript and currently learning more about back-end. I'm open to work!</p>
 
 
 
 🌱 I’m currently learning **React, Vue.js, Node.js and MySQL**
 
-💬 Ask me about **UI/UX**
+💬 Ask me about **UI/UX and Web Design**
 
-📫 How to reach me **gabrielasilvaalvescosta@gmail.com**
+📫 How to reach me **gabrielaaalvescosta@gmail.com**
 
 ⚡ Fun fact **I love colors in my projects, but i'm always dressed for a funeral**
 
