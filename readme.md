@@ -4,7 +4,7 @@
 
 
 
-🌱 I’m currently learning **React and Vue.js**
+🌱 I’m currently learning **ReactJS and Vue.js**
 
 💬 Ask me about **UI/UX and Web Design**
 
