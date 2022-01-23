@@ -4,7 +4,7 @@
 
 
 
-🌱 I’m currently learning **ReactJS, Vue.js and Typescript**
+🌱 I’m currently learning **ReactJS and Typescript**
 
 💬 Ask me about **UI/UX and Web Design**
 
