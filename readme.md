@@ -20,8 +20,8 @@
 
 
 ### My Resume (CV)
-* Resume in English (EN)
-* Resume in Portuguese (PT-BR)
+* [Resume in English (EN)](https://github.com/gabrielaalvescosta/gabrielaalvescosta/blob/main/resumes/gabriela-costa-software-engineer-en.pdf)
+* [Resume in Portuguese (PT-BR)](https://github.com/gabrielaalvescosta/gabrielaalvescosta/blob/main/resumes/gabriela-costa-software-engineer-pt-br.pdf)
 
 
 ### Languages and Tools
