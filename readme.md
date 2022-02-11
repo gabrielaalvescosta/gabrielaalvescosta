@@ -34,7 +34,7 @@
 </p>
 <br>
 
-![Gabriela Costa' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielaalvescosta&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Gabriela Costa' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielaalvescosta&custom_title=Gabriela Costa%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 
 <a href="https://github.com/gabrielaalvescosta">
