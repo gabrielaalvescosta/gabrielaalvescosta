@@ -27,5 +27,16 @@
 ### Languages and Tools
 <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript ES7"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> <a href="https://sass-lang.com/documentation/syntax" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass  / SCCC - css post processors"/> </a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a>
 <h2> Status</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaalvescosta&show_icons=true&locale=en" alt="gabrielaalvescosta" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gabrielaalvescosta&show_icons=true&locale=en" alt="gabrielaalvescosta" /></p>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gabrielaalvescosta&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielaalvescosta&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![Gabriela Costa' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielaalvescosta&custom_title=Gleysi%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+
+
+<a href="https://github.com/gabrielaalvescosta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaalvescosta&theme=gruvbox&hide_langs_below=1" alt="gabriela Costa Github stats"/>
+</a>
