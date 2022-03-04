@@ -1,4 +1,4 @@
-<img src='https://github.com/gabrielaalvescosta/gabrielaalvescosta/blob/main/gabrielaalvescosta.gif?raw=true' alt='PC' align="right" width="350px" height="auto" />
+<img src='https://github.com/gabrielaalvescosta/gabrielaalvescosta/blob/main/gabrielaalvescosta.gif?raw=true' alt='PC' align="right" width="170px" height="auto" />
 <h1>Hello! I'm Gabriela :)</h1>
 <p>25 yo front-end software engineer, graphic and web designer from Brazil. I love CSS, HTML and JavaScript and currently learning more about ReactJS and TypeScript. I'm open to work!</p>
 
