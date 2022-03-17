@@ -3,7 +3,6 @@
 <p>25 yo front-end software engineer, graphic and web designer from Brazil. I love CSS, HTML and JavaScript and currently learning more about ReactJS and TypeScript. I'm open to work!</p>
 
 
-
 🌱 I’m currently learning **ReactJS and Typescript**
 
 💬 Ask me about **UI/UX and Web Design**
