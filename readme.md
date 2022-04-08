@@ -31,7 +31,7 @@
 
 <p align="left">
    <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" />
+    <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true&locale=en&langs_count=8&layout=compact" />
   </a>
 </p>
 <br>
