@@ -29,9 +29,9 @@
 
 ![Gabriela Costa ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=gabrielaalvescosta&custom_title=Gabriela%20Contribution%20Graph&theme=dracula&bg_color=282A36&hide_border=true&line=C6538C&point=F1E05A)
 
-<p align="left">
-   <img width="49.75%" src="https://github-readme-stats.vercel.app/api?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.75%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true&locale=en&langs_count=8&layout=compact" />
+<p style="display:flex; justify-content: space-between;">
+   <img width="57.5%"  src="https://github-readme-stats.vercel.app/api?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielaalvescosta&show_icons=true&theme=dracula&hide_border=true&locale=en&langs_count=8&layout=compact" />
   </a>
 </p>
 <br>
