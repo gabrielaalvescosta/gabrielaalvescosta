@@ -9,7 +9,7 @@
 
 📫 How to reach me **gabrielaaalvescosta@gmail.com**
 
-⚡ Fun fact: **I love colors in my projects, but i'm always dressed for a funeral**
+⚡ Fun fact: **I love colors in my projects, but i'm always dressed for a funeral. Yes, I really love @dracula theme**
 
 
 ### Social Media
