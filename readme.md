@@ -7,7 +7,7 @@
 
 💬 Ask me about **UI/UX and Web Design**
 
-📫 How to reach me **gabrielaaalvescosta@gmail.com**
+📫 How to reach me **gabriela.costa@ibm.com**
 
 ⚡ Fun fact: **I love colors in my projects, but i'm always dressed for a funeral. Yes, I really love @dracula theme**
 
