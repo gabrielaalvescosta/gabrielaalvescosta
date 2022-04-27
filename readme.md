@@ -1,9 +1,9 @@
 <img src='https://github.com/gabrielaalvescosta/gabrielaalvescosta/blob/main/gabrielaalvescosta.gif?raw=true' alt='PC' align="right" width="170px" height="auto" />
 <h1>Hello! I'm Gabriela :)</h1>
-<p>25 yo front-end software engineer, UI/UX designer from Brazil. I love CSS, HTML and JavaScript and currently learning more about ReactJS and TypeScript. Currently being a Front-end Software Developer Intern at IBM Brazil.</p>
+<p>25 yo front-end software engineer, UI/UX designer from Brazil. I love CSS, HTML and JavaScript and currently learning more about ReactJS, TypeScript and Java. Front-end Software Developer Intern at IBM Brazil.</p>
 
 
-🌱 I’m currently learning **ReactJS and Typescript**
+🌱 I’m currently learning **ReactJS and Java**
 
 💬 Ask me about **UI/UX and Web Design**
 
