@@ -7,7 +7,7 @@ I’m currently learning **ReactJS and Java**
 
 Ask me about **UI/UX and Web Design**
 
-How to reach me **gabriela.costa@ibm.com**
+How to reach me **gabrielaaaalvescosta@gmail.com**
 
 Fun fact: **I love colors in my projects, but i'm always dressed for a funeral. Yes, I really love @dracula theme**
 
