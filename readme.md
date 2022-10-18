@@ -4,7 +4,7 @@
 <p>Full stack software engineer from Brazil. I love web stuff and currently learning more about React and Spring. Front-end Software Developer Intern at IBM Brazil.</p>
 
 
-I’m currently working with **ReactJS and Spring Boot**
+I’m currently working with **Angular and Java**
 
 Ask me about **UI/UX and Web Design**
 
