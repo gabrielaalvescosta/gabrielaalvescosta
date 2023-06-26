@@ -1,7 +1,7 @@
 <img src='https://github.com/gabrielaalvescosta/gabrielaalvescosta/blob/main/gabrielaalvescosta.gif?raw=true' alt='PC' align="right" width="100px" height="auto" />
 
 <h1>Hello! I'm Gabriela :)</h1>
-<p>Full stack software engineer from Brazil. I love web stuff and currently learning more about React and Spring. Front-end Software Developer at IBM Brazil.</p>
+<p>Software engineer from Brazil. I love web stuff and currently learning more about Angular and Java. Front-end Software Developer at IBM Brazil.</p>
 
 
 I’m currently working with **Angular**
